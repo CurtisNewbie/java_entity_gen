@@ -1,0 +1,1 @@
+# java_entity_gen
